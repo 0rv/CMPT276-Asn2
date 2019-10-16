@@ -1,8 +1,15 @@
+
+
+/*
 const pg = require('pg');
 const dotenv = require('dotenv') //like YAMLs but better
 
 
 dotenv.config()
+*/
+
+  const pg = require('pg');
+
 
 
 
