@@ -1,7 +1,6 @@
-define (function (require) {
-  const pg = require('pg');
-  const dotenv = require('dotenv') //like YAMLs but better
-})
+const pg = require('pg');
+const dotenv = require('dotenv') //like YAMLs but better
+
 
 dotenv.config()
 
